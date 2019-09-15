@@ -23,4 +23,5 @@ body {
 
 div {
   border: 5px dotted blue;
+  margin: 10px;
 }
