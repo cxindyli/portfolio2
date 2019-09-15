@@ -5,9 +5,12 @@ h1 {
   font-family: 'Saira Stencil One', cursive;
   font-size: 100px;
   text-align: center;
+  
 }
 
 body {
   background-image: linear-gradient(red, yellow, green);
   background-image: url(https://github.com/cxindyli/portfolio2/blob/master/surprisedpikachu.png?raw=true);
+  margin-left: auto;
+  margin-right: auto
 }
