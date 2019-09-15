@@ -5,6 +5,8 @@ h1 {
   font-family: 'Saira Stencil One', cursive;
   font-size: 100px;
   text-align: center;
+  border-bottom: 5px solid red;
+  background-color: #8FD78F;
   
 }
 
