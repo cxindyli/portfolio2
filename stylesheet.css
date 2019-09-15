@@ -7,5 +7,6 @@ h1 {
 }
 
 body {
+  background-image: linear-gradient(#63DCFF, #63FF74, #8963FF);
   background-image: url(https://github.com/cxindyli/portfolio2/blob/master/surprisedpikachu.png?raw=true);
 }
