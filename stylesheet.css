@@ -1,3 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Sofia)
+
 h1 {
   color: #1FE7D5;
+  font-family: 'Sofia';
 }
