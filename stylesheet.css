@@ -5,3 +5,7 @@ h1 {
   font-family: 'Saira Stencil One', cursive;
   font-size: 200px;
 }
+
+body {
+  background-image: url(https://github.com/cxindyli/portfolio2/blob/master/surprisedpikachu.png?raw=true);
+}
