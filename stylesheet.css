@@ -1,6 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Sofia);
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
 
 h1 {
   color: #2C891F;
-  font-family: 'Sofia';
+  font-family: 'Raleway', sans-serif;
 }
