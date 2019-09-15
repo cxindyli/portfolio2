@@ -12,6 +12,7 @@ body {
   background-image: linear-gradient(red, yellow, green);
   background-image: url(https://github.com/cxindyli/portfolio2/blob/master/surprisedpikachu.png?raw=true);
   background-repeat: no-repeat;
+  background-position: center;
   text-align: center;
   background-size:cover;
   
