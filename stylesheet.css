@@ -25,3 +25,15 @@ div {
   border: 5px dotted blue;
   margin: 10px;
 }
+
+.hobbies {
+  float:left;
+}
+
+.movies{
+  float:right;
+}
+
+.pewdiepie{
+  float: clear;
+}
