@@ -24,8 +24,9 @@ body {
 div {
   border: 5px dotted blue;
   margin: 10px;
-  height: 500px;
-  width: 500px;
+  height: 800px;
+  width: 800px;
+  text-align:center;
 }
 
 .hobbies {
