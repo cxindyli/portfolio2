@@ -21,27 +21,31 @@ body {
   
 }
 
-div {
+.hobbies {
+  float:left;
+  background-color: powderblue;
   border: 5px dotted blue;
   height: 500px;
   width: 49%;
   text-align:center;
-
-}
-
-.hobbies {
-  float:left;
-  background-color: powderblue;
 }
 
 .movies{
   float:right;
   background-color: powderblue;
+  border: 5px dotted blue;
+  height: 500px;
+  width: 49%;
+  text-align:center;
 }
 
 .pewdiepie{
   clear: both;
   background-color: powderblue;
+  border: 5px dotted blue;
+  height: 500px;
+  width: 49%;
+  text-align:center;
 }
 
 .navbar {
